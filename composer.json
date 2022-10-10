@@ -1,0 +1,19 @@
+{
+    "name": "kstan/ooptraining",
+    "autoload": {
+        "psr-4": {
+            "Kstan\\Ooptraining\\": "src/",
+            "HR\\": "class/HR",
+            "Payment\\": "class/Payment",
+            "Product\\": "class/Product",
+            "ValidationInterface\\": "class/ValidationInterface"
+        }
+    },
+    "authors": [
+        {
+            "name": "kstan",
+            "email": "kstan@simitgroup.com"
+        }
+    ],
+    "require": {}
+}
